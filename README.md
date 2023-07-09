@@ -1,4 +1,4 @@
-# ML_Engineer_project
+# ML and NN project
 Project included building a neural network, two simple ML models, and a simple heuristic to predict the forest cover type from cartographical data.
 
 ## Task description:
